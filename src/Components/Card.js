@@ -15,7 +15,7 @@ const defaultCardStyle = {
   backgroundColor: "white",
   border: "0px solid #787878",
   borderRadius: 25,
-  boxShadow: "0px 4px 10px #787878",
+  boxShadow: "0px 6px 20px #787878",
   cardHeight: 300,
 }
 

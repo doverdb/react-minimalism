@@ -6,6 +6,7 @@ const defaultCardHolderProps = {
   flexDirection: "column",
   left: 400,
   position: "absolute", 
+  textAlign: "center",
   top: 100,
   cardWidth: 250,
 };
